@@ -1,0 +1,8 @@
+# eclipse
+.cproject
+.project
+.settings/
+	
+# bazel
+bazel-*
+
